@@ -1,0 +1,39 @@
+* {
+    border: 1px solid rgb(62, 98, 98);
+}
+p {
+    
+    color: rgb(177, 189, 187);
+    font-size: 64px;
+}
+
+p {
+    color: rgb(52, 187, 167)!important; 
+    font-size: 64px;
+}
+
+body{
+    font-size:56px;
+    background-color: steelblue;
+    border: 1px solid black;
+}
+p{
+    color: 87px;
+}
+
+.class1{
+    background-color: aquamarine;
+}
+
+#id1 {
+    background-color:beige;
+}
+
+p span {
+    background-color: yellowgreen;
+}
+
+
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
